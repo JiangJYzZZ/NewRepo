@@ -11,7 +11,7 @@
 
 截图如下：
 
-![ping1](ping1.png)
+![ping1](https://github.com/JiangJYzZZ/NewRepo/blob/master/2017302580059/ping1.png)
 
 可见，四次均成功，还能看到一些具体的时间数据
 ***
