@@ -21,7 +21,7 @@
 
 截图如下：
 
-![ping2](ping2.png)
+![ping2](/ping2.png)
 
 ping不通，均丢失。与代理服务器无法连通
 ***
